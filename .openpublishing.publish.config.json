@@ -8,9 +8,9 @@
                     "_dependentPackages/CommonPlugins/tools/JoinTOC.ps1"
                 ]
             },
-            "docset_name": "SP-Framework",
+            "docset_name": "e2eppe-SP-Framework",
             "build_source_folder": "SP-Framework",
-            "build_output_subfolder": "SP-Framework",
+            "build_output_subfolder": "e2eppe-SP-Framework",
             "locale": "en-us",
             "monikers": [],
             "moniker_ranges": [],
